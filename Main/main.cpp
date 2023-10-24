@@ -113,7 +113,7 @@ int main()
             display_result(shop_no, curr_customers); // Displaying the number of customers in each shop
         }
 
-        else if (choice==3) // If it is closing time
+        else if (choice==3) // Exiting the program
         {
             display_result(shop_no, curr_customers);
             cout<<endl;
