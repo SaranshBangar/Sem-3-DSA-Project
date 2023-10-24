@@ -1,3 +1,11 @@
+// List of all the variables used in the program :
+// shop_no -> Number of shops in Java
+// shop_cust -> Array to store the capacity of each shop
+// curr_customers -> Array to store the number of customers in each shop
+// choice -> Variable to store the choice of the user
+// shop_no_add -> Shop number entered by the user when a person enters Java
+// shop_no_remove -> Shop number entered by the user when a person leaves Java
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -116,3 +124,6 @@ int main()
         else cout<<"Invalid choice! Try again"; // If the choice entered is invalid
     }
 }
+
+// Programmed by : Saransh Bangar
+// Under the guidance of : Prof. A. Jackuline. Mahariba
