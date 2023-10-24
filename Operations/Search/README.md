@@ -1,4 +1,4 @@
-e# Array Element Search
+# Array Element Search
 
 ## Input
 - Enter the size of array : 7
